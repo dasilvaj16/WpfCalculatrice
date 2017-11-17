@@ -1,0 +1,14 @@
+D:\dasilvaj16\WpfCalculatrice\WpfCalculatrice\bin\Debug\WpfCalculatrice.exe.config
+D:\dasilvaj16\WpfCalculatrice\WpfCalculatrice\bin\Debug\WpfCalculatrice.exe
+D:\dasilvaj16\WpfCalculatrice\WpfCalculatrice\bin\Debug\WpfCalculatrice.pdb
+D:\dasilvaj16\WpfCalculatrice\WpfCalculatrice\obj\Debug\WpfCalculatrice.csprojResolveAssemblyReference.cache
+D:\dasilvaj16\WpfCalculatrice\WpfCalculatrice\obj\Debug\MainWindow.g.cs
+D:\dasilvaj16\WpfCalculatrice\WpfCalculatrice\obj\Debug\App.g.cs
+D:\dasilvaj16\WpfCalculatrice\WpfCalculatrice\obj\Debug\WpfCalculatrice_MarkupCompile.cache
+D:\dasilvaj16\WpfCalculatrice\WpfCalculatrice\obj\Debug\WpfCalculatrice_MarkupCompile.lref
+D:\dasilvaj16\WpfCalculatrice\WpfCalculatrice\obj\Debug\MainWindow.baml
+D:\dasilvaj16\WpfCalculatrice\WpfCalculatrice\obj\Debug\WpfCalculatrice.g.resources
+D:\dasilvaj16\WpfCalculatrice\WpfCalculatrice\obj\Debug\WpfCalculatrice.Properties.Resources.resources
+D:\dasilvaj16\WpfCalculatrice\WpfCalculatrice\obj\Debug\WpfCalculatrice.csproj.GenerateResource.Cache
+D:\dasilvaj16\WpfCalculatrice\WpfCalculatrice\obj\Debug\WpfCalculatrice.exe
+D:\dasilvaj16\WpfCalculatrice\WpfCalculatrice\obj\Debug\WpfCalculatrice.pdb
